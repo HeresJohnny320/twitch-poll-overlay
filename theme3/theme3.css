@@ -48,7 +48,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .total strong,
 .custom .duration strong {
-	color: rgb(255, 255, 255);
 	font-size: 30px;
 
 	display: block;
@@ -66,7 +65,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom.finished .options li.highest,
 .custom.removing .options li.highest {
-	color: rgb(255, 255, 255);
 	opacity: 1;
 }
 
@@ -87,7 +85,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 20px;
 	text-align: center;
 	opacity: 80%;
-	color: rgb(255, 0, 0);
 	
 	/* background: rgb(38, 67, 75); */
 	animation: mymove 5s infinite;
@@ -137,8 +134,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 span {
 	text-align: center;
-	/* background-color: rgb(126, 126, 255); */
-	color: rgb(255, 0, 0);
 }
 
 .custom .options li .procent {
