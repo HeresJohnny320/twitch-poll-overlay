@@ -87,7 +87,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 20px;
 	text-align: center;
 	opacity: 80%;
-	color: rgb(255, 255, 255);
+	color: rgb(255, 0, 0);
 	
 	/* background: rgb(38, 67, 75); */
 	animation: mymove 5s infinite;
@@ -138,7 +138,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 span {
 	text-align: center;
 	/* background-color: rgb(126, 126, 255); */
-	color: rgb(255, 255, 255);
+	color: rgb(255, 0, 0);
 }
 
 .custom .options li .procent {
@@ -157,7 +157,7 @@ span {
 	left: 10px;
 	position: absolute;
 
-	border: solid rgb(255, 255, 255);
+	border: solid rgb(255, 0, 0);
 	border-radius: 50%;
 	text-align: center;
 	padding: 6px 10px;
