@@ -176,18 +176,7 @@ span {
 	transition: width 1s;
 	position: relative;
 }
-/* .custom .options li .text {
-	font-size: 30px;
-	display: inline-block;
-	width: 40px;
-	box-sizing: content-box;
-	height: 50px;
-	top: 6px;
-	left: 40px;
-	position: relative;
-	color: #fff;
 
-} */
 
 .custom .credits {
 	opacity: 0;
@@ -219,12 +208,9 @@ span {
 }
 
 
-.stars, .twinkling, .clouds , .stream-poll {
+.stream-poll {
   position: absolute;
   /* display:block; */
   font-size: 27px;
 }
-.overlay {
-	position: absolute;
-	top:0;
-  }
+
