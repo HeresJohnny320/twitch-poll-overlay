@@ -256,7 +256,7 @@ span {
 .clouds, .border{
     background:transparent url(clouds.png) repeat top center;
     z-index:2;
-    opacity: .4;
+    opacity: 30%;
     animation:move-clouds-back 200s linear infinite;
 }
 
