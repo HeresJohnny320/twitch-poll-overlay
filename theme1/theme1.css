@@ -228,7 +228,7 @@ span {
     to {background-position:10000px 0;}
 }
 
-.stars, .twinkling, .clouds , .overlay, .stream-poll, .border {
+.stars, .twinkling, .clouds , .stream-poll, .border {
   position: absolute;
   top:0;
   left:0;
@@ -240,7 +240,10 @@ span {
   font-size: 27px;
 }
 .overlay {
+	position: absolute;
+	top:0;
 	width:100%;
+	height:110%;
   }
 .stars, .overlay{
   	background:rgb(0, 0, 0) url(stars.png) repeat top center;
