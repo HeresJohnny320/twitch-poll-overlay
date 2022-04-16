@@ -195,17 +195,6 @@ span {
 	opacity: 0;
 }
 
-/* star effect */
-.title, .inner {
-    font-size: 46px;
-    font-family: 'Lato', sans-serif;
-    margin-top:10em;
-    text-align: center;
-    /* Make sure text is infront of background images */
-    display:block;
-    position: relative;
-    z-index: 3;
-}
 
 
 
