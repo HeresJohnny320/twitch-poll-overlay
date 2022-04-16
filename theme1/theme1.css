@@ -234,12 +234,14 @@ span {
   left:0;
   right:0;
   bottom:0;
-  width:100%;
+  width:50%;
   height:110%;
   /* display:block; */
   font-size: 27px;
 }
-
+.overlay {
+	width:100%;
+  }
 .stars, .overlay{
   	background:rgb(0, 0, 0) url(stars.png) repeat top center;
   	z-index:0;
@@ -251,10 +253,10 @@ span {
   animation:move-twink-back 200s linear infinite;
 }
 
-.clouds, .border{
+/* .clouds, .border{
     background:transparent url(clouds.png) repeat top center;
     z-index:2;
     opacity: 30%;
     animation:move-clouds-back 200s linear infinite;
-}
+} */
 
