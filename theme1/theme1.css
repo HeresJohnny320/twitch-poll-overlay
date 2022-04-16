@@ -13,11 +13,11 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 
 .custom, .overlay {
-	/* background: #000;
+	background: #000;
 	width: 400px;
 	transition: opacity 1s;
 	padding: 10px;
-	font-family: Abel; */
+	font-family: Abel;
 	opacity: 0;
 }
 
