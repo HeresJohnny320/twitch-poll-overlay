@@ -241,9 +241,9 @@ span {
 }
 
 .stars, .overlay{
-  background:#000 url(stars.png) repeat top center;
-  z-index:0;
-  opacity: 1;
+	opacity: 100%;
+  	background:rgb(0, 0, 0) url(stars.png) repeat top center;
+  	z-index:0;
 }
 
 .twinkling, .stream-poll{
