@@ -48,7 +48,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .total strong,
 .custom .duration strong {
-	color: rgb(255, 255, 255);
+	color: rgb(255, 0, 0);
 	font-size: 30px;
 
 	display: block;
@@ -199,3 +199,8 @@ span {
 
 
 
+
+
+  .inner {
+    margin-top:-50em;
+}
